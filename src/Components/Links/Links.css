@@ -1,0 +1,42 @@
+.link-container {
+    margin-top: 3rem;
+    margin-bottom: 10rem;
+}
+
+.btn-link {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: .5rem 0;
+    
+    color: #ffffffb0;
+    background: linear-gradient(to right,#ad5151, #f16969);
+    border: none;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 12px;
+    animation: fadeIntext 3s both;
+    
+}
+
+.btn-link:hover, .btn-link:active, .btn-link:focus  {
+    
+    color: #ffffffb0;
+  
+}
+
+
+
+.btn-link:hover, .btn-link:focus, .btn-link:active {
+
+    color: #464646;
+    border: none;
+}
+
+@media (min-width:1200px) {
+    .btn-link {
+      padding: 1rem 0;
+      font-size: 18px;
+    }
+  }
+

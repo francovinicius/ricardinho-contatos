@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+h1 {
+    margin-top: 17rem;
+    color: #ffffffb0;
+    font-family: 'Anton', sans-serif;
+    font-size: 56px;
+    text-transform: uppercase;
+    animation: fadeIntext 3s both;
+}
+
